@@ -1,16 +1,25 @@
-# CS-330
+# Computational Graphics and Visualization
 
-# How do I approach designing software?
+## Repository Overview
+This repository showcases my experience and skills in utilizing application programming interface (API) libraries and industry best practices to build modular/portable, scalable, and reliable software applications. The goal of this project is to create a 3-dimensional scene from a 2-dimensional image using the OpenGL API and OpenGL Shading Language (GLSL). The 3D representation utilizes low-polygon models constructed from primitive shapes and composed of many interconnected triangles. Completing this project provided me with invaluable experience in breaking down complex project requirements and successfully building and deploying a fully functional application. This project also honed my skills in reading and translating API documentation, allowing me to implement industry best practices throughout the development process.
 
-I approach designing software similar to solving a math problem. I write down all the knowns and try to compile a list of the unknowns. I create a skeleton outline for any classes, functions, or variables the software will need. If the software is significant with many components, I will create empty folders in a repository to visualize the system’s structure and get an idea of how it will work.
-From this assignment, I’ve gained and improved many skills. The most valuable things I’ve gained from the project are improving my C++ skills, utilizing continuous integration tools, and learning graphic pipelines.
+## Project Highlights
 
+* 3D Rendering: Utilized OpenGL to render three-dimensional objects with realistic textures and shading.
+* User Interaction: Implemented intuitive user navigation controls to explore the 3D scene.
+* Low-Polygon Models: Created efficient models using primitive shapes, optimizing for performance without compromising visual quality.
+* Continuous Integration: Leveraged CI tools to maintain code quality and facilitate version control.
 
-# How do I approach developing programs?
+## Skills and Technologies
+Through this project, I have honed several key skills and utilized various technologies, including:
 
-This assignment is one of the most complex assignments I have worked on. Utilizing different libraries while learning how they work was challenging. Learning about continuous integration was extremely useful because it allows you to go back to a program version before it gets over complicated. Going back to simple code versions allows me to test bits of code to see what small change breaks the code. I tend to overcomplicate things and find it best to try the most basic concepts before diving into more complex ideas.
+* Advanced C++: Enhanced proficiency in C++ for efficient and effective coding.
+* OpenGL and GLSL: Gained in-depth knowledge of graphic pipelines and shader programming.
+* Continuous Integration: Applied CI practices to streamline development and ensure robust code management.
 
+## Approach to Software Design
+My approach to software design is systematic and analytical. I begin by documenting all known requirements and identifying unknowns. Creating a skeleton outline for necessary classes, functions, and variables helps in visualizing the system’s structure. For larger projects, I organize the repository with empty folders representing different components to get a clear understanding of the system architecture.
 
-# How can computer science help me in reaching my goals?
+## Vision for Computational Graphics
+The integration of technology into society is accelerating, making computational graphics increasingly vital. Virtual classrooms, enhanced research capabilities, and innovative solutions to global challenges are just a few areas where graphics and AI play a transformative role. My goal is to leverage these technologies to contribute meaningfully to advancements in education, research, and problem-solving on a global scale.
 
-Technology is rapidly being integrated into society. Classes are being taught online, and since visuals are a large part of learning, computer graphics will be more prevalent to aid virtual classrooms. Virtual graphics are incredibly beneficial for research and the advancement of humanity. It would be nice to say we live in a perfect world and solving world problems isn’t necessary. Unfortunately, that isn’t the case, and world problems do exist. Fortunately, we can effectively and efficiently resolve world problems with computational graphics and AI.
